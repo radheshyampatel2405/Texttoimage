@@ -1,6 +1,7 @@
-''' This project is developed by radheshyam Patel 
-    it is a text to image project. in which we enter the which photo we want 
-    and it generated photo base on he text we give in input.
+''' This project is developed by Radheshyam Patel 
+    it is a text to image project. in which you enter text in input 
+    and get output in form of photo/image. 
+
  '''
 
 
